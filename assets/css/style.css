@@ -439,6 +439,17 @@ header {
     color: #000;
 }
 
+/* --- Form Validation States --- */
+.form-group .invalid {
+    border-color: #e74c3c;
+}
+
+.cpf-error-message {
+    color: #e74c3c;
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+}
+
 /* --- Success Message --- */
 .success-message {
     text-align: center;
