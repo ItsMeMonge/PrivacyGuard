@@ -2,7 +2,7 @@
 
 This is an open-source project that provides a complete and modern template for a high-conversion landing page (Sellpage), themed for a digital privacy service ("Privacy Guard"). The design is dark, professional, and built with UI/UX and copywriting techniques to maximize lead generation.
 
-![Homepage Screenshot](https://prnt.sc/5FrvuB1LMe7J)
+![Homepage Screenshot](img/index.png)
 
 ## ✨ Features
 
